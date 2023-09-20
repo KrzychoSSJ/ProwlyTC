@@ -20,3 +20,13 @@ Steps:
 3.	On filter bar choose  „tools”, select a time filter and next to last hour filter.
 4.	Select „clear” on the filter bar
 Expect conditions: Search results are returned without a date filter.
+======================================================================================
+TC3		„Range of date”
+Precondition: User can go to google.com page.
+Steps:
+1.	Go to Google.com page
+2.	Typing into the search field – „prowly”
+3.	On filter bar choose  „tools”, select a time filter and next to range of date.
+4.	Set a range of date
+Expect conditions: Search returns results from a set range of date.
+
