@@ -11,3 +11,12 @@ Steps:
 2.	Typing into the search field – „prowly”
 3.	On filter bar choose  „tools”, select a time filter and next to last hour filter.
 Expect conditions: Search returns results from an hour ago.
+======================================================================================
+TC2		„Remove date filtering”
+Precondition: User can go to google.com page.
+Steps:
+1.	Go to Google.com page
+2.	Typing into the search field – „prowly”
+3.	On filter bar choose  „tools”, select a time filter and next to last hour filter.
+4.	Select „clear” on the filter bar
+Expect conditions: Search results are returned without a date filter.
