@@ -1,0 +1,13 @@
+Test scenario for searching the word "prowly" on google.com with filtering by date.
+
+Author: Hodun Krzysztof
+Date: 20.09.2023
+
+
+TC1		„Searching a „prowly” filtering by last hour”
+Precondition: User can go to google.com page.
+Steps:
+1.	Go to Google.com page
+2.	Typing into the search field – „prowly”
+3.	On filter bar choose  „tools”, select a time filter and next to last hour filter.
+Expect conditions: Search returns results from an hour ago.
