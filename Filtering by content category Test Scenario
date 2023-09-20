@@ -21,3 +21,12 @@ Steps:
 4.	Change searching filter to eg „news”
 5.	Go back to movie filter.
 Expect conditions: Search engine uses the previously used.
+=================================================================
+TC3		„Negative TC - Change the search filter””
+Precondition: User can go to google.com page.
+Steps:
+1.	Go to Google.com page
+2.	Typing into the search field – „prowly”
+3.	Using a filter bar, select a movie filter.
+4.	Change searching filter to eg „news”
+Expect conditions: Search filed after change, the filter was empty.
