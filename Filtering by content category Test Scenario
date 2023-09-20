@@ -22,7 +22,7 @@ Steps:
 5.	Go back to movie filter.
 Expect conditions: Search engine uses the previously used.
 =================================================================
-TC3		„Negative TC - Change the search filter””
+TC3		„Negative TC - Change the search filter"
 Precondition: User can go to google.com page.
 Steps:
 1.	Go to Google.com page
